@@ -52,7 +52,7 @@ This project aims to inspire analysis on:
 - Correlation between payment method and order status  
 - Correlation between order date and product category  
 - Hidden patterns in e-commerce trends  
-- Predicting future orders, revenue, or popular product categories  
+
 
 ---
 

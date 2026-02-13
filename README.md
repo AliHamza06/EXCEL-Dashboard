@@ -1,4 +1,4 @@
-Excel Dashboards for eCommerce Dataset
+# Excel Dashboards for ECommerce Dataset
 
 This project contains interactive Excel dashboards analyzing eCommerce data, including sales, orders, and customer behavior.
 Dashboards visualize key metrics such as revenue trends, product performance, top customers, and monthly growth.
